@@ -1,0 +1,5 @@
+{
+  "name": "Randy's TaxWise - Tax Comparison Tool",
+  "description": "Calculate estimated federal, state, and local taxes based on your income and zip code. Get a clear breakdown of your take-home pay annually, monthly, and weekly.",
+  "requestFramePermissions": []
+}

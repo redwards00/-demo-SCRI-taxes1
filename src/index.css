@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  --color-burnt-orange: #BF5700;
+  --color-burnt-orange-light: #E67E22;
+  --color-burnt-orange-dark: #8E4400;
+}
